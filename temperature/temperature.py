@@ -8,7 +8,7 @@ print(float(fahren_temp))
 print(float(kev_temp))
 print(float(new_temp))
 
-
+# pune sa stiu ce temperatura i fiecare si scoate input in pula mea
 # ___.-''''-.
 #/___  @    |
 #',,,,.     |         _.'''''''._
