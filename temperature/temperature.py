@@ -8,21 +8,16 @@ print(float(fahren_temp))
 print(float(kev_temp))
 print(float(new_temp))
 
-# pune sa stiu ce temperatura i fiecare si scoate input in pula mea
-# ___.-''''-.
-#/___  @    |
-#',,,,.     |         _.'''''''._
-#     '     |        /           \
-#     |     \    _.-'             \
-#     |      '.-'                  '-.
-#     |                               ',
-#     |                                '',
-#      ',,-,                           ':;
-#           ',,| ;,,                 ,' ;;
-#              ! ; !'',,,',',,,,'!  ;   ;:
-#             : ;  ! !       ! ! ;  ;   :;
-#             ; ;   ! !      ! !  ; ;   ;,
-#            ; ;    ! !     ! !   ; ;
-#            ; ;    ! !    ! !     ; ;
-#           ;,,      !,!   !,!     ;,;
-#           /_I      L_I   L_I     /_I
+"""
+1.
+pune sa stiu ce temperatura i fiecare si scoate input in pula mea
+kev_temp = (float(argv[1])) + 273.15
+print(f"Kelvin temperature is: {kev_temp}")
+
+2.
+dupa ce faci asta extinde programu sa converteasca dintr o temperatura
+in alta
+ex. python temperature.py 23 newton kelvin
+23 de grade newton in kelvin
+etc.
+"""
