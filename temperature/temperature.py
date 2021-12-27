@@ -1,5 +1,3 @@
-from sys import argv
-
 def K_to_C(temp):
         return temp + 273.15
 
