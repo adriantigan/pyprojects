@@ -1,14 +1,11 @@
 from sys import argv
 
-if argv[3] == "cel": 
+kev_temp = (float(argv[3]))+ 273.15
+print(f"Kelvin temperature is: {kev_temp = }")
 
-    print("cel: {int(argv[1]) * 9 / 5 + 32)}")
-elif argv[3] == "feh":
+temp_cel = (float(argv[3])) * 9 / 5 + 32
+print(f"Celsius temperature is: {temp_cel = }")
 
-    print(f"feh: {{int(argv[1]) * 1,8) + 32)}}")
+feh_temp = (float(argv[3])) - 273,15 
+print(f'Feh temp is: {feh_temp = }')
 
-elif argv[3] == "kev":
-
-    print(f"kev: {{int(argv[1]) - 273,15)}}")
-
-print(argv)
