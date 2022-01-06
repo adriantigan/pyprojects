@@ -15,10 +15,6 @@ folosi din nou sau daca esti multumit de functionalitate,
 interfata etc. si incorporeaza la tine in cod, asa iti faci
 obiceiuri bune
 
-<<<<<<< HEAD
-kelvin_temp = ((float(argv[1]))+ 273.15)
-print(f"Kelvin temperature is: {kelvin_temp}")
-=======
 3. La calcule/formule parantezele is ca la matematica,
 gen nu e nevoie de paranteze externe neaparat
 ex.
@@ -28,7 +24,6 @@ kev_temp = float(argv[1])+ 273.15
 """
 kev_temp = ((float(argv[1]))+ 273.15)
 print(f"Kelvin temperature is: {kev_temp}")
->>>>>>> 2f2c6135836d6685e592b9498351523df1edf14c
 
 
 celsius_temperature = ((float(argv[1])) * 9 / 5 + 32)
